@@ -1,9 +1,9 @@
 ## Making sense of Data Visualization
 
-There are a lot of different charts in the data visualization lexicon and in this post I intend to explore and research when is the right time to use any particular visualization from the most simple to complex.     
+Exploring various of types of data visualizatipn and making sense of them.    
 
 #### Tool
-These charts were created with *Vega*.  *Vega* is a....You can explore the code that produced these charts [here](https://beta.observablehq.com/d/85a39c2b2101ee95) 
+These charts were created with *Vega-lite*.  *Vega-lite* is a javascript data visualization library that allows concise decriptions of visualizations as a set of grammar that maps an api directly to the conventional language used to describe graphical charts. You can explore the code that produced these charts [here](https://beta.observablehq.com/d/85a39c2b2101ee95) 
   
 
 #### Dataset
@@ -35,6 +35,11 @@ The dataset that produces these charts is sample dataset that comes with downloa
 ### Bar Chart
 Bar charts can be very useful on different occcasion. Below are a few occasions you may wnat to use a bar chart.
 
-1. Ranking - Rankings are very useful where visualizing instances where ordering of elements are important. Lets rank sum of sales per state.
+1. **Ranking** - Rankings are very useful where visualizing instances where ordering of elements are important. Lets rank sum of sales per state.
 
 ![Sales Per State](https://github.com/b-45/comprehending-data-visualizations/blob/master/charts/sales-per-state.png)
+
+***
+
+
+

@@ -33,9 +33,9 @@ The dataset that produces these charts is sample dataset that comes with downloa
 ***
 
 ### Bar Chart
-Bar charts can be very useful on different occcasion. Below are a few occasions you may wnat to use a bar chart.
+Bar charts can be very useful on different occasions. Below are a few instances you may want to utilize a bar chart.
 
-1. **Ranking** - Rankings are very useful where visualizing instances where ordering of elements are important. Lets rank sum of sales per state.
+1. **Ranking** - Rankings are very useful where visualizing instances where ordering of elements are important.
 
 ![Sales Per State](https://github.com/b-45/comprehending-data-visualizations/blob/master/charts/sales-per-state.png)
 

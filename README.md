@@ -1,9 +1,9 @@
-## Making sense of Data Visualization
+`## Making sense of Data Visualization
 
 Exploring various of types of data visualizatipn and making sense of them.    
 
 #### Tool
-These charts were created with *Vega-lite*.  *Vega-lite* is a javascript data visualization library that allows concise decriptions of visualizations as a set of grammar that maps an api directly to the conventional language used to describe graphical charts. You can explore the code that produced these charts [here](https://beta.observablehq.com/d/85a39c2b2101ee95) 
+These charts were created with *Vega-lite*.  *Vega-lite* is a javascript data visualization library that allows concise decriptions of visualizations as a set of grammar that maps an api directly to the conventional language used to describe graphical charts. You can explore interactivity and the code and that produced these charts [here](https://beta.observablehq.com/d/85a39c2b2101ee95) 
   
 
 #### Dataset
@@ -39,7 +39,10 @@ Bar charts displays rectangular bars that are proportional to the data they repr
 
 ![Sales Per State](https://github.com/b-45/comprehending-data-visualizations/blob/master/charts/sales-per-state.png)
 
+
+
+2. **Diverging plot** - Diverging plot can be useful to display deviation of two elements in our dataset.  This divergence emphasizes variation from a fixed reference point such as 0, average or any target.
+
+![Gain or Loss per State](https://github.com/b-45/comprehending-data-visualizations/blob/master/charts/gain-loss.png)
+
 ***
-
-
-

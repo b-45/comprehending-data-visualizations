@@ -1,9 +1,10 @@
-## Making sense of Data Visualization
+![Making sense of Data Visualization](https://github.com/b-45/comprehending-data-visualizations/blob/master/charts/title.png)
+
 
 Exploring various of types of data visualizatipn and making sense of them.    
 
 #### Tool
-These charts were created with *Vega-lite*.  **Vega-lite** is a javascript data visualization library that allows concise decriptions of visualizations as a set of grammar that maps an api directly to the conventional language used to describe graphical charts. You can explore interactivity and the code and that produced these charts [here](https://beta.observablehq.com/d/85a39c2b2101ee95) 
+These charts were created with a fantastic javascript data visualization library named *Vega-lite*.  **Vega-lite** allows concise decriptions of the visual properties of a chart and maps to a declarative visualization grammar api seamlessly. You can explore interactivity and the code that produced these charts [here](https://beta.observablehq.com/d/85a39c2b2101ee95) 
   
 
 #### Dataset

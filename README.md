@@ -38,7 +38,7 @@ The dataset that produced these charts are from a **Superstore** dataset that co
 ### Bar Chart
 Bar charts displays rectangular bars that are proportional to the data they represent. Below are a few instances you may want to utilize a bar chart.
 
-1. **Ranking** - Ranking data can be useful to examine the position of data in an ordered scale.
+1. **Ranking** - Ranking bar charts are used to examine the position of data in an ordered scale.
 
 ![Sales Per State](https://github.com/b-45/comprehending-data-visualizations/blob/master/charts/sales-per-state.png)
 
@@ -48,7 +48,7 @@ Bar charts displays rectangular bars that are proportional to the data they repr
 
 ![Gain or Loss per State](https://github.com/b-45/comprehending-data-visualizations/blob/master/charts/gain-loss.png)
 
-3. **Stacked Bar Chart**
+3. **Grouped Bar Chart** - Grouped bar charts are used to compare different categories of data of one or several groups.  This type of plot can also be achieved with a *stacked bar chart* however I find grouped bar charts much easier to analyze data.
 
-
+![Grouped Bar Chart](https://github.com/b-45/comprehending-data-visualizations/blob/master/charts/grouped-bar.png)
 ***

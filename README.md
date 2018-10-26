@@ -35,20 +35,21 @@ The dataset that produced these charts are from a **Superstore** dataset that co
 *Lets get into it!*
 ***
 
-### Bar Chart
-Bar charts displays rectangular bars that are proportional to the data they represent. Below are a few instances you may want to utilize a bar chart.
-
-1. **Ranking** - Ranking bar charts are used to examine the position of data in an ordered scale.
+1. **Ranking Bar Plot** - Ranking bar charts are used to examine the position of data in an ordered scale.
 
 ![Sales Per State](https://github.com/b-45/comprehending-data-visualizations/blob/master/charts/sales-per-state.png)
 
 
 
-2. **Diverging plot** - Diverging plots are used to chart the deviation of two elements from a fixed referenced point such as 0, average or any target. 
+2. **Diverging Bar Plot** - Diverging plots are used to chart the deviation of two elements from a fixed referenced point such as 0, average or any target. With this plot we can visually examine by how much sales per each state deviates from 0.
 
 ![Gain or Loss per State](https://github.com/b-45/comprehending-data-visualizations/blob/master/charts/gain-loss.png)
 
-3. **Grouped Bar Chart** - Grouped bar charts are used to compare different categories of data of one or several groups.  This type of plot can also be achieved with a *stacked bar chart* however I find grouped bar charts much easier to analyze data.
+3. **Grouped Bar Plot** - Grouped bar charts are used to compare different categories of data of one or several groups. A stacked plot is also a popular chart to compare categories of groups however I find grouped bar charts more effective to analyze data.
 
 ![Grouped Bar Chart](https://github.com/b-45/comprehending-data-visualizations/blob/master/charts/grouped-bar.png)
+
+4. **Scatter Plot** - Scatter plots are commonly used to visualize the correlation or mutual relationship between two variables.
+
+![Scatter Plot](https://github.com/b-45/comprehending-data-visualizations/blob/master/charts/scatter-plot.png)
 ***
